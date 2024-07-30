@@ -13,13 +13,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2 align="center">Hii 👋</h2>
-<br/>
-Greetings, Earthlings! 👽
-<br/>
+<h2 align="center">Hii 👋</h2><br>
+
+Greetings, Earthlings! 👽<br>
 - 🌱  I’m into web development and DSA
 
-- 📫 How to reach me **mannpadhiar22@gmail.com**
+- 📫 How to reach me: **mannpadhiar22@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
