@@ -16,9 +16,6 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hello 👋</h1>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mannpadhiar&label=Profile%20views&color=0e75b6&style=flat" alt="mannpadhiar" /> </p>
-
 - 🌱  **I’m into web development and DSA**
 
 - 📫 How to reach me **mannpadhiar22@gmail.com**
