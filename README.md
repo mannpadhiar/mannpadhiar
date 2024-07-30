@@ -24,7 +24,7 @@ Greetings, Earthlings! 👽
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <div align="left">
-  <a href="https://www.linkedin.com/in/your-profile">
+<!--   <a href="https://www.linkedin.com/in/your-profile">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://twitter.com/your-handle">
@@ -32,7 +32,7 @@ Greetings, Earthlings! 👽
   </a>
   <a href="https://www.instagram.com/your-username">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
+  </a> -->
 </div>
 </p>
 
