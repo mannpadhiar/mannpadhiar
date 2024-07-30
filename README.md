@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h2 align="center">Hii 👋</h2>
-<br>
+<br/>
 Greetings, Earthlings! 👽
-<br>
-- 🌱  **I’m into web development and DSA**
+<br/>
+- 🌱  I’m into web development and DSA
 
 - 📫 How to reach me **mannpadhiar22@gmail.com**
 
