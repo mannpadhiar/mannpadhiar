@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2 align="center">Hii 👋</h2><br>
+
 
 Greetings, Earthlings! 👽<br>
 - 🌱  I’m into web development and DSA
