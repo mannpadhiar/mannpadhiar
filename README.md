@@ -35,7 +35,7 @@ Greetings, Earthlings! 👽<br>
 </div>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mannpadhiar&show_icons=true&locale=en&layout=compact" alt="mannpadhiar" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mannpadhiar&show_icons=true&locale=en&layout=compact" alt="mannpadhiar" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mannpadhiar&show_icons=true&locale=en" alt="mannpadhiar" /></p>
 
