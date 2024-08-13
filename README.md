@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 
 
 Greetings, Earthlings! 👽<br>
-- 🌱  I’m into web development and DSA
+- 🌱  I’m into Web Development and DSA
 
-- 📫 How to reach me: **mannpadhiar22@gmail.com**
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; How to reach me: **mannpadhiar22@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
