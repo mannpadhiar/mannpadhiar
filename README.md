@@ -35,8 +35,14 @@ Greetings, Earthlings! 👽<br>
 </div>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mannpadhiar&show_icons=true&locale=en&layout=compact" alt="mannpadhiar" /></p>
+ ### **📊 GitHub Stats**
+ <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700"><br />
+![](https://github-readme-stats.vercel.app/api?username=mannpadhiar&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mannpadhiar&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# 📊 GitHub Streaks 🔥
+![](https://github-readme-streak-stats.herokuapp.com/?user=mannpadhiar&theme=gotham&hide_border=false)<br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mannpadhiar&show_icons=true&locale=en" alt="mannpadhiar" /></p>
+---
+[![](https://visitcount.itsvg.in/api?id=mannpadhiar&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mannpadhiar&" alt="mannpadhiar" /></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
