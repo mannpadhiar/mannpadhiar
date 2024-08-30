@@ -48,3 +48,4 @@ Greetings, Earthlings! 👽<br>
 [![](https://visitcount.itsvg.in/api?id=mannpadhiar&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img src="https://i.pinimg.com/1200x/19/ce/58/19ce58c4d49883197ed1b2dac5108079.jpg"  alt="linkedin logo"  />
