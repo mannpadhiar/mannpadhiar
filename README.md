@@ -36,11 +36,9 @@ Greetings, Earthlings! 👽<br>
 </p>
 
  ### **📊 GitHub Stats**
- <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700"><br />
 ![](https://github-readme-stats.vercel.app/api?username=mannpadhiar&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mannpadhiar&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ### 📊 GitHub Streaks 🔥
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700"><br />
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mannpadhiar&theme=gotham&hide_border=false)<br/>
 
 
