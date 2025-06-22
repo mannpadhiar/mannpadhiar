@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 
 Greetings, Earthlings! 👽<br>
-- 🌱  I’m into Web Development and DSA
+- 🌱  I’m into App Development and DSA
 
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; How to reach me: **mannpadhiar22@gmail.com**
 
