@@ -1,4 +1,4 @@
-# Hi 👋, I'm Mann Padhiar  
+# Hi 👋, I'm Mann Padhiyar  
 ### 🚀 App Developer | ML Enthusiast | Full-Stack Learner  
 
 <p align="left">
