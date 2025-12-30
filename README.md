@@ -1,5 +1,5 @@
-# Hi 👋, I'm Mann Padhiyar  
-### 🚀 App Developer | ML Enthusiast | Full-Stack Learner  
+# I'm Mann Padhiyar  
+### App Developer | ML Enthusiast 
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=mannpadhiar&label=Profile%20views&color=0e75b6&style=flat" alt="mannpadhiar" />
@@ -8,15 +8,11 @@
 ---
 
 ## 👨‍💻 About Me
-- 🌱 Currently learning **Machine Learning & Deep Learning**
-- 📱 Passionate **Flutter App Developer**
-- 🧠 Interested in **AI-powered products**
-- 👯 Open to **collaborations & internships**
-- 📫 Reach me at **mannpadhiar22@gmail.com**
-- ⚡ Fun fact: *I think I am happy 😄*
+I am a Mobile App Developer specializing in Flutter, with a strong interest in building clean, scalable, and user-focused applications. I enjoy working on modern app architectures, creating smooth UI experiences, and writing maintainable code that solves real-world problems.
 
-📄 **Resume**:  
-👉 [View Resume](https://drive.google.com/file/d/14OneSD_b9wicnrqB29RYmdIJDYyHGoMa/view)
+Alongside Flutter development, I am actively learning Machine Learning to understand how data-driven intelligence can enhance applications. My focus is on core ML concepts, practical model building, and exploring how AI features such as personalization, prediction, and automation can be integrated into mobile apps.
+
+I am a continuous learner who enjoys experimenting with new technologies and improving my skills through hands-on projects. I am looking for opportunities where I can grow as a developer, contribute to meaningful products, and work at the intersection of mobile development and machine learning.
 
 ---
 
