@@ -7,7 +7,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 I am a Mobile App Developer specializing in Flutter, with a strong interest in building clean, scalable, and user-focused applications. I enjoy working on modern app architectures, creating smooth UI experiences, and writing maintainable code that solves real-world problems.
 
 Alongside Flutter development, I am actively learning Machine Learning to understand how data-driven intelligence can enhance applications. My focus is on core ML concepts, practical model building, and exploring how AI features such as personalization, prediction, and automation can be integrated into mobile apps.
